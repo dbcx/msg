@@ -1,0 +1,49 @@
+
+.by{
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top:10%; 
+	border: 1px solid#c0c0c0;
+
+}
+.ia{
+	text-decoration: none;
+
+}
+h1{
+	font-family: 华文细黑;
+}	
+input[type="text"] {
+	  width: 50%;
+	  padding: 1em 2em 1em 3em;
+	  color: #9199aa;
+	  font-size: 18px;
+	  outline: none;
+	  background: url(../images/user.png) no-repeat 10px 15px;
+	  border: none;
+	  font-weight: 100;
+	  border-bottom: 1px solid#c0c0c0;
+	  margin-top: 2em;
+}
+ input[type="password"]{
+	  width: 50%;
+	  padding: 1em 2em 1em 3em;
+	  color: #dd3e3e;
+	  font-size: 18px;
+	  outline: none;
+	  background: url(../images/key.png) no-repeat 10px 23px;
+	  border: none;
+	  font-weight: 100;
+	  border-bottom: 1px solid#c0c0c0;
+	  margin-bottom: 10px;
+ }
+ input[type="submit"]{
+ 	width:100px;
+ 	height:35px;
+ 	line-height:35px;
+ 	border:none;
+ 	font-style: oblique;
+ 	font-size: 20px;
+ 	background: transparent;
+ }
